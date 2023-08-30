@@ -1,0 +1,16 @@
+.main-title {
+  text-align: center;
+}
+
+.char-info {
+  background-color: lightgray;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.all-chars {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  gap: 20px
+}
